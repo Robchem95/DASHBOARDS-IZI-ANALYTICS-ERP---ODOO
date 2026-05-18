@@ -8,3 +8,5 @@ Otros ejemplos de dashboards incluyen manejo de leads, control de agentes de IA,
 # DASHBOARD PARA CRM 
 
 <img width="1889" height="734" alt="image" src="https://github.com/user-attachments/assets/ac7b6be0-4a59-41a4-acae-d61c8645258f" />
+
+<img width="1888" height="642" alt="image" src="https://github.com/user-attachments/assets/9b94e4c0-d2ef-46fb-a0d2-512ff3936cd9" />
